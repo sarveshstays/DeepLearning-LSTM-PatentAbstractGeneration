@@ -16,3 +16,9 @@ Load in pre-trained embeddings
 Train model to predict next work in sequence
 Make predictions by passing in starting sequence
 
+# Data Fields
+
+patent_abstract
+patent_date
+patent_number
+patent_title
